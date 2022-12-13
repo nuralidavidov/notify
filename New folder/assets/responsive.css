@@ -1,0 +1,29 @@
+@media only screen and (max-width:992px){
+    header .container {
+        padding-left: 170px;}
+        
+    
+    section .icon p{
+         width: 300px};
+
+}
+@media only screen and (max-width:768px){
+
+    header .container {
+        padding-left: 170px;
+        background-image: none;
+    }
+
+
+}
+
+
+@media only screen and (max-width:576px) {
+
+
+    header .container {
+        padding-left: 60px;
+        background-image: none;
+    }
+}
+
